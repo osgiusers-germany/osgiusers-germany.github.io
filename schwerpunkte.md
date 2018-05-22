@@ -68,7 +68,7 @@ Das OSGi Users'-Forum Germany hat derzeit drei Arbeitsgruppen:
 * Desktop Systeme mit OSGi
 
 ### Schwerpunkte
-<br>
+
 **Testing**
 - Testen von Java Native Interface (JNI) Komponenten
 - Testen in der Entwicklungsumgebung
